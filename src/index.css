@@ -30,3 +30,7 @@ body {
 .status {
   font-size: 1rem;
 }
+
+.game {
+  display: flex;
+}
